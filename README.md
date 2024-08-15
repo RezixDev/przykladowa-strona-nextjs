@@ -2,7 +2,7 @@
 
 Prosty projekt w Next.js prezentujący jego mozliwości.
 
-Score w Lighthouse tez jest niczego sobie prawie 100 we wszystkim na Desktopie i 86 na Mobile 
+Score w Lighthouse tez jest niczego sobie 100 we wszystkim na Desktopie i 96 na Mobile 
 
 Hehe
 
