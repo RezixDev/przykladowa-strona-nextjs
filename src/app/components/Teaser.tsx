@@ -1,14 +1,11 @@
-import Image from 'next/image'
 
 export const Teaser = () => {
   return (
     <div className="flex flex-col md:flex-row items-center justify-between max-w-7xl mx-auto py-12 px-4">
       <div className="md:w-1/2 mb-8 md:mb-0 relative w-full" style={{ height: '500px' }}>
-        <Image 
+        <img 
           src="/doggo.png" 
           alt="Teaser image" 
-          priority={true}
-          fill
           style={{ objectFit: 'cover' }}
           className="rounded-lg"
         />
