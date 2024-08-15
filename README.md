@@ -7,8 +7,7 @@ Score w Lighthouse tez jest niczego sobie prawie 100 we wszystkim na Desktopie i
 Hehe
 
 Desktop Performance:
-![
-    
-](image-1.png)
+![no elo](image-1.png)
+
 Mobile Performance:
 ![alt text](image.png)
